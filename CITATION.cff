@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and this software release. Journal publication details will be added when available."
+title: "Physics-Guided Residual Learning for Transient Carbon Fields in Gas Carburizing"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Yixiao
+  - family-names: Zhang
+    given-names: Wenyu
+  - family-names: Li
+    given-names: Xusheng
+  - family-names: Ju
+    given-names: Dongying
+version: 1.0.0
+date-released: 2026-09-15
+url: "https://github.com/YixiaoOneSmile/physics-guided-carburizing"
+license: Apache-2.0

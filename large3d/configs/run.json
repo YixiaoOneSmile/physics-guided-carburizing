@@ -1,0 +1,23 @@
+{
+  "n": 256,
+  "domain_mm": 50.0,
+  "internal_dt_s": 60.0,
+  "seed": 2027,
+  "modes": ["direct", "prior_direct", "residual"],
+  "epochs": 40,
+  "steps_per_epoch": 160,
+  "effective_batch": 2,
+  "microbatch": 1,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.00001,
+  "surface_loss_weight": 0.2,
+  "mass_loss_weight": 0.05,
+  "validation_interval": 2,
+  "time_limit_hours": 24,
+  "amp_bfloat16": true,
+  "fft_float32": true,
+  "data_dtype": "float32",
+  "hdf5_compression": "gzip-1-shuffle",
+  "resume": false,
+  "scope": "scale-specific retraining; not zero-shot cross-scale generalization"
+}

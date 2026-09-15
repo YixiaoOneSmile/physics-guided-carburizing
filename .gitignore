@@ -1,0 +1,12 @@
+.venv/
+assets/
+downloads/
+work/
+__pycache__/
+*.pyc
+.DS_Store
+*.pt
+*.h5
+*.hdf5
+*.log
+

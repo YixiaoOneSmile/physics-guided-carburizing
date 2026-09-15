@@ -1,0 +1,17 @@
+Physics-Guided Residual Learning for Transient Carbon Fields in Gas Carburizing
+Copyright 2026 the contributing authors.
+
+Source code is released under the Apache License, Version 2.0.
+The vendor/physicsnemo_runtime directory contains an unmodified runtime source
+snapshot of NVIDIA PhysicsNeMo 2.2.0a0, copied from the research environment.
+NVIDIA copyright and SPDX headers are retained. Its license is included at
+vendor/physicsnemo_runtime/LICENSE.txt.
+Upstream: https://github.com/NVIDIA/physicsnemo
+
+This snapshot has no upstream Git commit metadata. File hashes are supplied
+for reproducibility; it is not described as an official tagged release.
+The runtime includes no experiment datasets, credentials, or example projects.
+
+The public launchers add relative paths, isolated outputs, installation,
+download verification and environment checks. They do not change the stored
+network architectures, loss functions, numerical solvers, or model weights.
